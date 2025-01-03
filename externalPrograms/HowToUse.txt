@@ -1,0 +1,9 @@
+To use "createJunkQuestFile.exe" open commandline and use the following arguments
+
+arg1 - type of data
+arg2 - number of elements in the file
+arg3 - the name of the generated file
+
+e.g. "createJunkQuestFile.exe Knowledge 250 KnowledgeFile"
+will generate a file called "KnowledgeFile.PCG"
+with 250 elements; each element will be in the format of "{"Knowledge_0", "Knowledge", questType, JusticeStat, HumanityStat, TemperanceStat, CourageStat, KnowledgeStat}"
