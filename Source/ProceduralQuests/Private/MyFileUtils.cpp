@@ -17,3 +17,8 @@ FString UMyFileUtils::LoadFileToString(FString fileName)
 
 	return result;
 }
+
+Fstring UMyFileUtils::GetCharFromString(FString string, int index)
+{
+	return string[index];
+}
