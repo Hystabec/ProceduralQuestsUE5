@@ -5,7 +5,7 @@
 
 FString UMyFileUtils::LoadFileToString(FString fileName)
 {
-	FString dir = FPaths::GameSourceDir();
+	FString dir = FPaths::ProjectDir();
 	FString result;
 	IPlatformFile& file = FPlatformFileManager::Get().GetPlatformFile();
 
@@ -16,9 +16,4 @@ FString UMyFileUtils::LoadFileToString(FString fileName)
 	}
 
 	return result;
-}
-
-Fstring UMyFileUtils::GetCharFromString(FString string, int index)
-{
-	return string[index];
 }

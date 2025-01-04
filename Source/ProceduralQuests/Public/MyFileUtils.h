@@ -17,7 +17,4 @@ class PROCEDURALQUESTS_API UMyFileUtils : public UBlueprintFunctionLibrary
 public:
 	UFUNCTION(BlueprintCallable, Category = "File Utils")
 	static FString LoadFileToString(FString fileName);
-
-	UFUNCTION(BlueprintCallable, Category = "String Utils")
-	static FString GetCharFromString(FString string, int index);
 };
