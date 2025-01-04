@@ -6,4 +6,16 @@ arg3 - the name of the generated file
 
 e.g. "createJunkQuestFile.exe Knowledge 250 KnowledgeFile"
 will generate a file called "KnowledgeFile.PCG"
-with 250 elements; each element will be in the format of "{"Knowledge_0", "Knowledge", questType, JusticeStat, HumanityStat, TemperanceStat, CourageStat, KnowledgeStat}"
+
+with 250 elements; each element will be in the format of 
+
+{
+ "id" : "Knowledge_0",
+ "type" : "Knowledge",
+ "action" : RANDOM_ACTION,
+ "justice" : RANDOM_JUSTICE_STAT,
+ "humanity" : RANDOM_HUMANIITYSTAT,
+ "temperance" : RANDOM_TEMPERANCE_STAT,
+ "courage" : RANDOM_COURAGE_STAT,
+ "knowledge" : RANDOM_KNOWLEDGE_STAT
+}
