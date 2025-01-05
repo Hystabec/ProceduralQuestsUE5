@@ -1,0 +1,3002 @@
+[
+  {
+    "task_id" : "0",
+    "type" : "justice",
+    "action" : "Fix",
+    "justice" : 30,
+    "humanity" : 17,
+    "temperance" : 4,
+    "courage" : 10,
+    "knowledge" : 29
+  },
+  {
+    "task_id" : "1",
+    "type" : "justice",
+    "action" : "Use",
+    "justice" : 30,
+    "humanity" : 18,
+    "temperance" : 18,
+    "courage" : 22,
+    "knowledge" : 14
+  },
+  {
+    "task_id" : "2",
+    "type" : "justice",
+    "action" : "Read",
+    "justice" : 29,
+    "humanity" : 15,
+    "temperance" : 23,
+    "courage" : 7,
+    "knowledge" : 14
+  },
+  {
+    "task_id" : "3",
+    "type" : "justice",
+    "action" : "Read",
+    "justice" : 29,
+    "humanity" : 8,
+    "temperance" : 23,
+    "courage" : 13,
+    "knowledge" : 13
+  },
+  {
+    "task_id" : "4",
+    "type" : "justice",
+    "action" : "Read",
+    "justice" : 28,
+    "humanity" : 16,
+    "temperance" : 10,
+    "courage" : 13,
+    "knowledge" : 12
+  },
+  {
+    "task_id" : "5",
+    "type" : "justice",
+    "action" : "Read",
+    "justice" : 28,
+    "humanity" : 5,
+    "temperance" : 12,
+    "courage" : 6,
+    "knowledge" : 15
+  },
+  {
+    "task_id" : "6",
+    "type" : "justice",
+    "action" : "Decision",
+    "justice" : 27,
+    "humanity" : 18,
+    "temperance" : 2,
+    "courage" : 9,
+    "knowledge" : 6
+  },
+  {
+    "task_id" : "7",
+    "type" : "justice",
+    "action" : "Decision",
+    "justice" : 27,
+    "humanity" : 17,
+    "temperance" : 1,
+    "courage" : 25,
+    "knowledge" : 12
+  },
+  {
+    "task_id" : "8",
+    "type" : "justice",
+    "action" : "Attack",
+    "justice" : 26,
+    "humanity" : 21,
+    "temperance" : 18,
+    "courage" : 17,
+    "knowledge" : 19
+  },
+  {
+    "task_id" : "9",
+    "type" : "justice",
+    "action" : "Take",
+    "justice" : 26,
+    "humanity" : 9,
+    "temperance" : 15,
+    "courage" : 17,
+    "knowledge" : 4
+  },
+  {
+    "task_id" : "10",
+    "type" : "justice",
+    "action" : "Use",
+    "justice" : 25,
+    "humanity" : 19,
+    "temperance" : 12,
+    "courage" : 7,
+    "knowledge" : 12
+  },
+  {
+    "task_id" : "11",
+    "type" : "justice",
+    "action" : "Take",
+    "justice" : 25,
+    "humanity" : 23,
+    "temperance" : 16,
+    "courage" : 4,
+    "knowledge" : 3
+  },
+  {
+    "task_id" : "12",
+    "type" : "justice",
+    "action" : "Read",
+    "justice" : 24,
+    "humanity" : 11,
+    "temperance" : 14,
+    "courage" : 18,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "13",
+    "type" : "justice",
+    "action" : "Goto",
+    "justice" : 24,
+    "humanity" : 16,
+    "temperance" : 14,
+    "courage" : 16,
+    "knowledge" : 16
+  },
+  {
+    "task_id" : "14",
+    "type" : "justice",
+    "action" : "Exchange",
+    "justice" : 23,
+    "humanity" : 0,
+    "temperance" : 20,
+    "courage" : 13,
+    "knowledge" : 13
+  },
+  {
+    "task_id" : "15",
+    "type" : "justice",
+    "action" : "Use",
+    "justice" : 23,
+    "humanity" : 10,
+    "temperance" : 5,
+    "courage" : 13,
+    "knowledge" : 6
+  },
+  {
+    "task_id" : "16",
+    "type" : "justice",
+    "action" : "Use",
+    "justice" : 22,
+    "humanity" : 17,
+    "temperance" : 16,
+    "courage" : 0,
+    "knowledge" : 12
+  },
+  {
+    "task_id" : "17",
+    "type" : "justice",
+    "action" : "Attack",
+    "justice" : 22,
+    "humanity" : 16,
+    "temperance" : 6,
+    "courage" : 5,
+    "knowledge" : 18
+  },
+  {
+    "task_id" : "18",
+    "type" : "justice",
+    "action" : "Attack",
+    "justice" : 21,
+    "humanity" : 15,
+    "temperance" : 14,
+    "courage" : 4,
+    "knowledge" : 14
+  },
+  {
+    "task_id" : "19",
+    "type" : "justice",
+    "action" : "Take",
+    "justice" : 21,
+    "humanity" : 11,
+    "temperance" : 3,
+    "courage" : 18,
+    "knowledge" : 14
+  },
+  {
+    "task_id" : "20",
+    "type" : "justice",
+    "action" : "Attack",
+    "justice" : 20,
+    "humanity" : 15,
+    "temperance" : 19,
+    "courage" : 18,
+    "knowledge" : 4
+  },
+  {
+    "task_id" : "21",
+    "type" : "justice",
+    "action" : "Fix",
+    "justice" : 20,
+    "humanity" : 17,
+    "temperance" : 6,
+    "courage" : 13,
+    "knowledge" : 6
+  },
+  {
+    "task_id" : "22",
+    "type" : "justice",
+    "action" : "Use",
+    "justice" : 19,
+    "humanity" : 17,
+    "temperance" : 1,
+    "courage" : 15,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "23",
+    "type" : "justice",
+    "action" : "Goto",
+    "justice" : 19,
+    "humanity" : 6,
+    "temperance" : 12,
+    "courage" : 5,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "24",
+    "type" : "justice",
+    "action" : "Listen",
+    "justice" : 18,
+    "humanity" : 6,
+    "temperance" : 17,
+    "courage" : 6,
+    "knowledge" : 17
+  },
+  {
+    "task_id" : "25",
+    "type" : "justice",
+    "action" : "Listen",
+    "justice" : 18,
+    "humanity" : 3,
+    "temperance" : 4,
+    "courage" : 17,
+    "knowledge" : 10
+  },
+  {
+    "task_id" : "26",
+    "type" : "justice",
+    "action" : "Attack",
+    "justice" : 17,
+    "humanity" : 11,
+    "temperance" : 9,
+    "courage" : 15,
+    "knowledge" : 9
+  },
+  {
+    "task_id" : "27",
+    "type" : "justice",
+    "action" : "Craft",
+    "justice" : 17,
+    "humanity" : 14,
+    "temperance" : 16,
+    "courage" : 4,
+    "knowledge" : 15
+  },
+  {
+    "task_id" : "28",
+    "type" : "justice",
+    "action" : "Decision",
+    "justice" : 16,
+    "humanity" : 15,
+    "temperance" : 9,
+    "courage" : 15,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "29",
+    "type" : "justice",
+    "action" : "Goto",
+    "justice" : 16,
+    "humanity" : 1,
+    "temperance" : 14,
+    "courage" : 13,
+    "knowledge" : 12
+  },
+  {
+    "task_id" : "30",
+    "type" : "justice",
+    "action" : "Craft",
+    "justice" : 15,
+    "humanity" : 1,
+    "temperance" : 11,
+    "courage" : 10,
+    "knowledge" : 3
+  },
+  {
+    "task_id" : "31",
+    "type" : "justice",
+    "action" : "Read",
+    "justice" : 15,
+    "humanity" : 0,
+    "temperance" : 11,
+    "courage" : 12,
+    "knowledge" : 5
+  },
+  {
+    "task_id" : "32",
+    "type" : "justice",
+    "action" : "Fix",
+    "justice" : 14,
+    "humanity" : 3,
+    "temperance" : 2,
+    "courage" : 13,
+    "knowledge" : 2
+  },
+  {
+    "task_id" : "33",
+    "type" : "justice",
+    "action" : "Attack",
+    "justice" : 14,
+    "humanity" : 1,
+    "temperance" : 9,
+    "courage" : 4,
+    "knowledge" : 4
+  },
+  {
+    "task_id" : "34",
+    "type" : "justice",
+    "action" : "Listen",
+    "justice" : 13,
+    "humanity" : 0,
+    "temperance" : 1,
+    "courage" : 9,
+    "knowledge" : 7
+  },
+  {
+    "task_id" : "35",
+    "type" : "justice",
+    "action" : "Fix",
+    "justice" : 13,
+    "humanity" : 9,
+    "temperance" : 7,
+    "courage" : 12,
+    "knowledge" : 5
+  },
+  {
+    "task_id" : "36",
+    "type" : "justice",
+    "action" : "Craft",
+    "justice" : 12,
+    "humanity" : 6,
+    "temperance" : 5,
+    "courage" : 7,
+    "knowledge" : 6
+  },
+  {
+    "task_id" : "37",
+    "type" : "justice",
+    "action" : "Craft",
+    "justice" : 12,
+    "humanity" : 0,
+    "temperance" : 8,
+    "courage" : 7,
+    "knowledge" : 11
+  },
+  {
+    "task_id" : "38",
+    "type" : "justice",
+    "action" : "Goto",
+    "justice" : 11,
+    "humanity" : 10,
+    "temperance" : 8,
+    "courage" : 10,
+    "knowledge" : 9
+  },
+  {
+    "task_id" : "39",
+    "type" : "justice",
+    "action" : "Exchange",
+    "justice" : 11,
+    "humanity" : 10,
+    "temperance" : 6,
+    "courage" : 10,
+    "knowledge" : 10
+  },
+  {
+    "task_id" : "40",
+    "type" : "justice",
+    "action" : "Craft",
+    "justice" : 10,
+    "humanity" : 6,
+    "temperance" : 5,
+    "courage" : 1,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "41",
+    "type" : "justice",
+    "action" : "Decision",
+    "justice" : 10,
+    "humanity" : 9,
+    "temperance" : 6,
+    "courage" : 8,
+    "knowledge" : 3
+  },
+  {
+    "task_id" : "42",
+    "type" : "justice",
+    "action" : "Craft",
+    "justice" : 9,
+    "humanity" : 1,
+    "temperance" : 3,
+    "courage" : 2,
+    "knowledge" : 4
+  },
+  {
+    "task_id" : "43",
+    "type" : "justice",
+    "action" : "Goto",
+    "justice" : 9,
+    "humanity" : 0,
+    "temperance" : 1,
+    "courage" : 6,
+    "knowledge" : 6
+  },
+  {
+    "task_id" : "44",
+    "type" : "justice",
+    "action" : "Craft",
+    "justice" : 8,
+    "humanity" : 3,
+    "temperance" : 2,
+    "courage" : 7,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "45",
+    "type" : "justice",
+    "action" : "Goto",
+    "justice" : 8,
+    "humanity" : 2,
+    "temperance" : 2,
+    "courage" : 4,
+    "knowledge" : 4
+  },
+  {
+    "task_id" : "46",
+    "type" : "justice",
+    "action" : "Gather",
+    "justice" : 7,
+    "humanity" : 0,
+    "temperance" : 3,
+    "courage" : 1,
+    "knowledge" : 2
+  },
+  {
+    "task_id" : "47",
+    "type" : "justice",
+    "action" : "Craft",
+    "justice" : 7,
+    "humanity" : 4,
+    "temperance" : 4,
+    "courage" : 2,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "48",
+    "type" : "justice",
+    "action" : "Goto",
+    "justice" : 6,
+    "humanity" : 5,
+    "temperance" : 4,
+    "courage" : 5,
+    "knowledge" : 2
+  },
+  {
+    "task_id" : "49",
+    "type" : "justice",
+    "action" : "Craft",
+    "justice" : 6,
+    "humanity" : 3,
+    "temperance" : 4,
+    "courage" : 4,
+    "knowledge" : 3
+  },
+  {
+    "task_id" : "50",
+    "type" : "justice",
+    "action" : "Goto",
+    "justice" : 5,
+    "humanity" : 4,
+    "temperance" : 2,
+    "courage" : 0,
+    "knowledge" : 3
+  },
+  {
+    "task_id" : "51",
+    "type" : "justice",
+    "action" : "Fix",
+    "justice" : 5,
+    "humanity" : 2,
+    "temperance" : 1,
+    "courage" : 0,
+    "knowledge" : 3
+  },
+  {
+    "task_id" : "52",
+    "type" : "justice",
+    "action" : "Attack",
+    "justice" : 4,
+    "humanity" : 2,
+    "temperance" : 0,
+    "courage" : 0,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "53",
+    "type" : "justice",
+    "action" : "Goto",
+    "justice" : 4,
+    "humanity" : 2,
+    "temperance" : 3,
+    "courage" : 1,
+    "knowledge" : 3
+  },
+  {
+    "task_id" : "54",
+    "type" : "justice",
+    "action" : "Attack",
+    "justice" : 3,
+    "humanity" : 0,
+    "temperance" : 1,
+    "courage" : 2,
+    "knowledge" : 2
+  },
+  {
+    "task_id" : "55",
+    "type" : "justice",
+    "action" : "Craft",
+    "justice" : 3,
+    "humanity" : 2,
+    "temperance" : 2,
+    "courage" : 0,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "56",
+    "type" : "justice",
+    "action" : "Fix",
+    "justice" : 2,
+    "humanity" : 0,
+    "temperance" : 1,
+    "courage" : 1,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "57",
+    "type" : "justice",
+    "action" : "Take",
+    "justice" : 2,
+    "humanity" : 0,
+    "temperance" : 1,
+    "courage" : 0,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "58",
+    "type" : "justice",
+    "action" : "Listen",
+    "justice" : 1,
+    "humanity" : 0,
+    "temperance" : 0,
+    "courage" : 0,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "59",
+    "type" : "justice",
+    "action" : "Take",
+    "justice" : 1,
+    "humanity" : 0,
+    "temperance" : 0,
+    "courage" : 0,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "60",
+    "type" : "humanity",
+    "action" : "Take",
+    "justice" : 9,
+    "humanity" : 30,
+    "temperance" : 28,
+    "courage" : 12,
+    "knowledge" : 5
+  },
+  {
+    "task_id" : "61",
+    "type" : "humanity",
+    "action" : "Listen",
+    "justice" : 14,
+    "humanity" : 30,
+    "temperance" : 19,
+    "courage" : 1,
+    "knowledge" : 2
+  },
+  {
+    "task_id" : "62",
+    "type" : "humanity",
+    "action" : "Use",
+    "justice" : 22,
+    "humanity" : 29,
+    "temperance" : 26,
+    "courage" : 12,
+    "knowledge" : 15
+  },
+  {
+    "task_id" : "63",
+    "type" : "humanity",
+    "action" : "Attack",
+    "justice" : 10,
+    "humanity" : 29,
+    "temperance" : 12,
+    "courage" : 12,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "64",
+    "type" : "humanity",
+    "action" : "Goto",
+    "justice" : 21,
+    "humanity" : 28,
+    "temperance" : 14,
+    "courage" : 13,
+    "knowledge" : 25
+  },
+  {
+    "task_id" : "65",
+    "type" : "humanity",
+    "action" : "Read",
+    "justice" : 21,
+    "humanity" : 28,
+    "temperance" : 4,
+    "courage" : 6,
+    "knowledge" : 5
+  },
+  {
+    "task_id" : "66",
+    "type" : "humanity",
+    "action" : "Decision",
+    "justice" : 1,
+    "humanity" : 27,
+    "temperance" : 8,
+    "courage" : 3,
+    "knowledge" : 24
+  },
+  {
+    "task_id" : "67",
+    "type" : "humanity",
+    "action" : "Fix",
+    "justice" : 23,
+    "humanity" : 27,
+    "temperance" : 16,
+    "courage" : 8,
+    "knowledge" : 5
+  },
+  {
+    "task_id" : "68",
+    "type" : "humanity",
+    "action" : "Exchange",
+    "justice" : 19,
+    "humanity" : 26,
+    "temperance" : 11,
+    "courage" : 7,
+    "knowledge" : 2
+  },
+  {
+    "task_id" : "69",
+    "type" : "humanity",
+    "action" : "Listen",
+    "justice" : 12,
+    "humanity" : 26,
+    "temperance" : 15,
+    "courage" : 23,
+    "knowledge" : 14
+  },
+  {
+    "task_id" : "70",
+    "type" : "humanity",
+    "action" : "Read",
+    "justice" : 8,
+    "humanity" : 25,
+    "temperance" : 21,
+    "courage" : 7,
+    "knowledge" : 6
+  },
+  {
+    "task_id" : "71",
+    "type" : "humanity",
+    "action" : "Fix",
+    "justice" : 21,
+    "humanity" : 25,
+    "temperance" : 22,
+    "courage" : 4,
+    "knowledge" : 11
+  },
+  {
+    "task_id" : "72",
+    "type" : "humanity",
+    "action" : "Decision",
+    "justice" : 2,
+    "humanity" : 24,
+    "temperance" : 13,
+    "courage" : 2,
+    "knowledge" : 20
+  },
+  {
+    "task_id" : "73",
+    "type" : "humanity",
+    "action" : "Take",
+    "justice" : 12,
+    "humanity" : 24,
+    "temperance" : 15,
+    "courage" : 21,
+    "knowledge" : 8
+  },
+  {
+    "task_id" : "74",
+    "type" : "humanity",
+    "action" : "Read",
+    "justice" : 1,
+    "humanity" : 23,
+    "temperance" : 7,
+    "courage" : 18,
+    "knowledge" : 7
+  },
+  {
+    "task_id" : "75",
+    "type" : "humanity",
+    "action" : "Fix",
+    "justice" : 12,
+    "humanity" : 23,
+    "temperance" : 8,
+    "courage" : 6,
+    "knowledge" : 11
+  },
+  {
+    "task_id" : "76",
+    "type" : "humanity",
+    "action" : "Goto",
+    "justice" : 5,
+    "humanity" : 22,
+    "temperance" : 6,
+    "courage" : 21,
+    "knowledge" : 16
+  },
+  {
+    "task_id" : "77",
+    "type" : "humanity",
+    "action" : "Listen",
+    "justice" : 11,
+    "humanity" : 22,
+    "temperance" : 14,
+    "courage" : 8,
+    "knowledge" : 18
+  },
+  {
+    "task_id" : "78",
+    "type" : "humanity",
+    "action" : "Fix",
+    "justice" : 2,
+    "humanity" : 21,
+    "temperance" : 12,
+    "courage" : 20,
+    "knowledge" : 10
+  },
+  {
+    "task_id" : "79",
+    "type" : "humanity",
+    "action" : "Craft",
+    "justice" : 11,
+    "humanity" : 21,
+    "temperance" : 10,
+    "courage" : 0,
+    "knowledge" : 8
+  },
+  {
+    "task_id" : "80",
+    "type" : "humanity",
+    "action" : "Fix",
+    "justice" : 10,
+    "humanity" : 20,
+    "temperance" : 3,
+    "courage" : 8,
+    "knowledge" : 12
+  },
+  {
+    "task_id" : "81",
+    "type" : "humanity",
+    "action" : "Attack",
+    "justice" : 2,
+    "humanity" : 20,
+    "temperance" : 0,
+    "courage" : 13,
+    "knowledge" : 7
+  },
+  {
+    "task_id" : "82",
+    "type" : "humanity",
+    "action" : "Listen",
+    "justice" : 14,
+    "humanity" : 19,
+    "temperance" : 13,
+    "courage" : 3,
+    "knowledge" : 4
+  },
+  {
+    "task_id" : "83",
+    "type" : "humanity",
+    "action" : "Goto",
+    "justice" : 3,
+    "humanity" : 19,
+    "temperance" : 9,
+    "courage" : 8,
+    "knowledge" : 7
+  },
+  {
+    "task_id" : "84",
+    "type" : "humanity",
+    "action" : "Use",
+    "justice" : 0,
+    "humanity" : 18,
+    "temperance" : 9,
+    "courage" : 17,
+    "knowledge" : 9
+  },
+  {
+    "task_id" : "85",
+    "type" : "humanity",
+    "action" : "Read",
+    "justice" : 14,
+    "humanity" : 18,
+    "temperance" : 16,
+    "courage" : 14,
+    "knowledge" : 2
+  },
+  {
+    "task_id" : "86",
+    "type" : "humanity",
+    "action" : "Read",
+    "justice" : 12,
+    "humanity" : 17,
+    "temperance" : 11,
+    "courage" : 13,
+    "knowledge" : 7
+  },
+  {
+    "task_id" : "87",
+    "type" : "humanity",
+    "action" : "Craft",
+    "justice" : 7,
+    "humanity" : 17,
+    "temperance" : 15,
+    "courage" : 14,
+    "knowledge" : 12
+  },
+  {
+    "task_id" : "88",
+    "type" : "humanity",
+    "action" : "Goto",
+    "justice" : 0,
+    "humanity" : 16,
+    "temperance" : 0,
+    "courage" : 11,
+    "knowledge" : 5
+  },
+  {
+    "task_id" : "89",
+    "type" : "humanity",
+    "action" : "Goto",
+    "justice" : 12,
+    "humanity" : 16,
+    "temperance" : 14,
+    "courage" : 7,
+    "knowledge" : 8
+  },
+  {
+    "task_id" : "90",
+    "type" : "humanity",
+    "action" : "Decision",
+    "justice" : 10,
+    "humanity" : 15,
+    "temperance" : 11,
+    "courage" : 4,
+    "knowledge" : 8
+  },
+  {
+    "task_id" : "91",
+    "type" : "humanity",
+    "action" : "Exchange",
+    "justice" : 1,
+    "humanity" : 15,
+    "temperance" : 11,
+    "courage" : 13,
+    "knowledge" : 3
+  },
+  {
+    "task_id" : "92",
+    "type" : "humanity",
+    "action" : "Gather",
+    "justice" : 4,
+    "humanity" : 14,
+    "temperance" : 10,
+    "courage" : 2,
+    "knowledge" : 7
+  },
+  {
+    "task_id" : "93",
+    "type" : "humanity",
+    "action" : "Fix",
+    "justice" : 0,
+    "humanity" : 14,
+    "temperance" : 13,
+    "courage" : 8,
+    "knowledge" : 8
+  },
+  {
+    "task_id" : "94",
+    "type" : "humanity",
+    "action" : "Exchange",
+    "justice" : 12,
+    "humanity" : 13,
+    "temperance" : 8,
+    "courage" : 9,
+    "knowledge" : 8
+  },
+  {
+    "task_id" : "95",
+    "type" : "humanity",
+    "action" : "Goto",
+    "justice" : 5,
+    "humanity" : 13,
+    "temperance" : 8,
+    "courage" : 1,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "96",
+    "type" : "humanity",
+    "action" : "Listen",
+    "justice" : 10,
+    "humanity" : 12,
+    "temperance" : 9,
+    "courage" : 7,
+    "knowledge" : 9
+  },
+  {
+    "task_id" : "97",
+    "type" : "humanity",
+    "action" : "Craft",
+    "justice" : 9,
+    "humanity" : 12,
+    "temperance" : 7,
+    "courage" : 1,
+    "knowledge" : 8
+  },
+  {
+    "task_id" : "98",
+    "type" : "humanity",
+    "action" : "Decision",
+    "justice" : 8,
+    "humanity" : 11,
+    "temperance" : 5,
+    "courage" : 2,
+    "knowledge" : 2
+  },
+  {
+    "task_id" : "99",
+    "type" : "humanity",
+    "action" : "Take",
+    "justice" : 8,
+    "humanity" : 11,
+    "temperance" : 6,
+    "courage" : 9,
+    "knowledge" : 9
+  },
+  {
+    "task_id" : "100",
+    "type" : "humanity",
+    "action" : "Goto",
+    "justice" : 0,
+    "humanity" : 10,
+    "temperance" : 2,
+    "courage" : 6,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "101",
+    "type" : "humanity",
+    "action" : "Craft",
+    "justice" : 1,
+    "humanity" : 10,
+    "temperance" : 1,
+    "courage" : 1,
+    "knowledge" : 7
+  },
+  {
+    "task_id" : "102",
+    "type" : "humanity",
+    "action" : "Take",
+    "justice" : 1,
+    "humanity" : 9,
+    "temperance" : 0,
+    "courage" : 2,
+    "knowledge" : 2
+  },
+  {
+    "task_id" : "103",
+    "type" : "humanity",
+    "action" : "Use",
+    "justice" : 8,
+    "humanity" : 9,
+    "temperance" : 7,
+    "courage" : 5,
+    "knowledge" : 5
+  },
+  {
+    "task_id" : "104",
+    "type" : "humanity",
+    "action" : "Exchange",
+    "justice" : 1,
+    "humanity" : 8,
+    "temperance" : 6,
+    "courage" : 2,
+    "knowledge" : 5
+  },
+  {
+    "task_id" : "105",
+    "type" : "humanity",
+    "action" : "Use",
+    "justice" : 5,
+    "humanity" : 8,
+    "temperance" : 0,
+    "courage" : 2,
+    "knowledge" : 7
+  },
+  {
+    "task_id" : "106",
+    "type" : "humanity",
+    "action" : "Attack",
+    "justice" : 6,
+    "humanity" : 7,
+    "temperance" : 2,
+    "courage" : 0,
+    "knowledge" : 2
+  },
+  {
+    "task_id" : "107",
+    "type" : "humanity",
+    "action" : "Attack",
+    "justice" : 1,
+    "humanity" : 7,
+    "temperance" : 5,
+    "courage" : 5,
+    "knowledge" : 2
+  },
+  {
+    "task_id" : "108",
+    "type" : "humanity",
+    "action" : "Listen",
+    "justice" : 0,
+    "humanity" : 6,
+    "temperance" : 3,
+    "courage" : 0,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "109",
+    "type" : "humanity",
+    "action" : "Listen",
+    "justice" : 1,
+    "humanity" : 6,
+    "temperance" : 0,
+    "courage" : 1,
+    "knowledge" : 4
+  },
+  {
+    "task_id" : "110",
+    "type" : "humanity",
+    "action" : "Take",
+    "justice" : 0,
+    "humanity" : 5,
+    "temperance" : 3,
+    "courage" : 0,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "111",
+    "type" : "humanity",
+    "action" : "Listen",
+    "justice" : 1,
+    "humanity" : 5,
+    "temperance" : 2,
+    "courage" : 1,
+    "knowledge" : 2
+  },
+  {
+    "task_id" : "112",
+    "type" : "humanity",
+    "action" : "Take",
+    "justice" : 3,
+    "humanity" : 4,
+    "temperance" : 1,
+    "courage" : 1,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "113",
+    "type" : "humanity",
+    "action" : "Craft",
+    "justice" : 1,
+    "humanity" : 4,
+    "temperance" : 0,
+    "courage" : 1,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "114",
+    "type" : "humanity",
+    "action" : "Decision",
+    "justice" : 2,
+    "humanity" : 3,
+    "temperance" : 0,
+    "courage" : 0,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "115",
+    "type" : "humanity",
+    "action" : "Take",
+    "justice" : 1,
+    "humanity" : 3,
+    "temperance" : 1,
+    "courage" : 0,
+    "knowledge" : 2
+  },
+  {
+    "task_id" : "116",
+    "type" : "humanity",
+    "action" : "Fix",
+    "justice" : 0,
+    "humanity" : 2,
+    "temperance" : 0,
+    "courage" : 0,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "117",
+    "type" : "humanity",
+    "action" : "Goto",
+    "justice" : 1,
+    "humanity" : 2,
+    "temperance" : 1,
+    "courage" : 0,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "118",
+    "type" : "humanity",
+    "action" : "Take",
+    "justice" : 0,
+    "humanity" : 1,
+    "temperance" : 0,
+    "courage" : 0,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "119",
+    "type" : "humanity",
+    "action" : "Exchange",
+    "justice" : 0,
+    "humanity" : 1,
+    "temperance" : 0,
+    "courage" : 0,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "120",
+    "type" : "temperance",
+    "action" : "Use",
+    "justice" : 1,
+    "humanity" : 1,
+    "temperance" : 30,
+    "courage" : 15,
+    "knowledge" : 9
+  },
+  {
+    "task_id" : "121",
+    "type" : "temperance",
+    "action" : "Use",
+    "justice" : 11,
+    "humanity" : 20,
+    "temperance" : 30,
+    "courage" : 6,
+    "knowledge" : 14
+  },
+  {
+    "task_id" : "122",
+    "type" : "temperance",
+    "action" : "Gather",
+    "justice" : 28,
+    "humanity" : 12,
+    "temperance" : 29,
+    "courage" : 27,
+    "knowledge" : 7
+  },
+  {
+    "task_id" : "123",
+    "type" : "temperance",
+    "action" : "Fix",
+    "justice" : 13,
+    "humanity" : 3,
+    "temperance" : 29,
+    "courage" : 13,
+    "knowledge" : 28
+  },
+  {
+    "task_id" : "124",
+    "type" : "temperance",
+    "action" : "Exchange",
+    "justice" : 5,
+    "humanity" : 12,
+    "temperance" : 28,
+    "courage" : 1,
+    "knowledge" : 18
+  },
+  {
+    "task_id" : "125",
+    "type" : "temperance",
+    "action" : "Goto",
+    "justice" : 5,
+    "humanity" : 20,
+    "temperance" : 28,
+    "courage" : 21,
+    "knowledge" : 9
+  },
+  {
+    "task_id" : "126",
+    "type" : "temperance",
+    "action" : "Take",
+    "justice" : 15,
+    "humanity" : 20,
+    "temperance" : 27,
+    "courage" : 14,
+    "knowledge" : 17
+  },
+  {
+    "task_id" : "127",
+    "type" : "temperance",
+    "action" : "Take",
+    "justice" : 12,
+    "humanity" : 8,
+    "temperance" : 27,
+    "courage" : 24,
+    "knowledge" : 2
+  },
+  {
+    "task_id" : "128",
+    "type" : "temperance",
+    "action" : "Attack",
+    "justice" : 11,
+    "humanity" : 4,
+    "temperance" : 26,
+    "courage" : 5,
+    "knowledge" : 17
+  },
+  {
+    "task_id" : "129",
+    "type" : "temperance",
+    "action" : "Fix",
+    "justice" : 0,
+    "humanity" : 12,
+    "temperance" : 26,
+    "courage" : 3,
+    "knowledge" : 8
+  },
+  {
+    "task_id" : "130",
+    "type" : "temperance",
+    "action" : "Read",
+    "justice" : 20,
+    "humanity" : 19,
+    "temperance" : 25,
+    "courage" : 6,
+    "knowledge" : 15
+  },
+  {
+    "task_id" : "131",
+    "type" : "temperance",
+    "action" : "Take",
+    "justice" : 10,
+    "humanity" : 15,
+    "temperance" : 25,
+    "courage" : 22,
+    "knowledge" : 14
+  },
+  {
+    "task_id" : "132",
+    "type" : "temperance",
+    "action" : "Fix",
+    "justice" : 1,
+    "humanity" : 9,
+    "temperance" : 24,
+    "courage" : 18,
+    "knowledge" : 3
+  },
+  {
+    "task_id" : "133",
+    "type" : "temperance",
+    "action" : "Goto",
+    "justice" : 12,
+    "humanity" : 2,
+    "temperance" : 24,
+    "courage" : 23,
+    "knowledge" : 23
+  },
+  {
+    "task_id" : "134",
+    "type" : "temperance",
+    "action" : "Use",
+    "justice" : 15,
+    "humanity" : 10,
+    "temperance" : 23,
+    "courage" : 14,
+    "knowledge" : 6
+  },
+  {
+    "task_id" : "135",
+    "type" : "temperance",
+    "action" : "Exchange",
+    "justice" : 16,
+    "humanity" : 0,
+    "temperance" : 23,
+    "courage" : 13,
+    "knowledge" : 17
+  },
+  {
+    "task_id" : "136",
+    "type" : "temperance",
+    "action" : "Attack",
+    "justice" : 10,
+    "humanity" : 19,
+    "temperance" : 22,
+    "courage" : 13,
+    "knowledge" : 21
+  },
+  {
+    "task_id" : "137",
+    "type" : "temperance",
+    "action" : "Listen",
+    "justice" : 15,
+    "humanity" : 0,
+    "temperance" : 22,
+    "courage" : 5,
+    "knowledge" : 2
+  },
+  {
+    "task_id" : "138",
+    "type" : "temperance",
+    "action" : "Craft",
+    "justice" : 8,
+    "humanity" : 13,
+    "temperance" : 21,
+    "courage" : 10,
+    "knowledge" : 2
+  },
+  {
+    "task_id" : "139",
+    "type" : "temperance",
+    "action" : "Exchange",
+    "justice" : 15,
+    "humanity" : 15,
+    "temperance" : 21,
+    "courage" : 19,
+    "knowledge" : 9
+  },
+  {
+    "task_id" : "140",
+    "type" : "temperance",
+    "action" : "Fix",
+    "justice" : 8,
+    "humanity" : 7,
+    "temperance" : 20,
+    "courage" : 4,
+    "knowledge" : 15
+  },
+  {
+    "task_id" : "141",
+    "type" : "temperance",
+    "action" : "Craft",
+    "justice" : 18,
+    "humanity" : 10,
+    "temperance" : 20,
+    "courage" : 7,
+    "knowledge" : 7
+  },
+  {
+    "task_id" : "142",
+    "type" : "temperance",
+    "action" : "Take",
+    "justice" : 9,
+    "humanity" : 17,
+    "temperance" : 19,
+    "courage" : 15,
+    "knowledge" : 6
+  },
+  {
+    "task_id" : "143",
+    "type" : "temperance",
+    "action" : "Craft",
+    "justice" : 4,
+    "humanity" : 17,
+    "temperance" : 19,
+    "courage" : 15,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "144",
+    "type" : "temperance",
+    "action" : "Craft",
+    "justice" : 0,
+    "humanity" : 5,
+    "temperance" : 18,
+    "courage" : 15,
+    "knowledge" : 13
+  },
+  {
+    "task_id" : "145",
+    "type" : "temperance",
+    "action" : "Use",
+    "justice" : 12,
+    "humanity" : 16,
+    "temperance" : 18,
+    "courage" : 12,
+    "knowledge" : 5
+  },
+  {
+    "task_id" : "146",
+    "type" : "temperance",
+    "action" : "Gather",
+    "justice" : 9,
+    "humanity" : 14,
+    "temperance" : 17,
+    "courage" : 15,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "147",
+    "type" : "temperance",
+    "action" : "Use",
+    "justice" : 1,
+    "humanity" : 14,
+    "temperance" : 17,
+    "courage" : 13,
+    "knowledge" : 14
+  },
+  {
+    "task_id" : "148",
+    "type" : "temperance",
+    "action" : "Take",
+    "justice" : 3,
+    "humanity" : 9,
+    "temperance" : 16,
+    "courage" : 8,
+    "knowledge" : 10
+  },
+  {
+    "task_id" : "149",
+    "type" : "temperance",
+    "action" : "Take",
+    "justice" : 9,
+    "humanity" : 14,
+    "temperance" : 16,
+    "courage" : 7,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "150",
+    "type" : "temperance",
+    "action" : "Fix",
+    "justice" : 14,
+    "humanity" : 0,
+    "temperance" : 15,
+    "courage" : 0,
+    "knowledge" : 10
+  },
+  {
+    "task_id" : "151",
+    "type" : "temperance",
+    "action" : "Goto",
+    "justice" : 13,
+    "humanity" : 0,
+    "temperance" : 15,
+    "courage" : 1,
+    "knowledge" : 3
+  },
+  {
+    "task_id" : "152",
+    "type" : "temperance",
+    "action" : "Exchange",
+    "justice" : 0,
+    "humanity" : 6,
+    "temperance" : 14,
+    "courage" : 13,
+    "knowledge" : 10
+  },
+  {
+    "task_id" : "153",
+    "type" : "temperance",
+    "action" : "Fix",
+    "justice" : 11,
+    "humanity" : 9,
+    "temperance" : 14,
+    "courage" : 3,
+    "knowledge" : 13
+  },
+  {
+    "task_id" : "154",
+    "type" : "temperance",
+    "action" : "Listen",
+    "justice" : 7,
+    "humanity" : 1,
+    "temperance" : 13,
+    "courage" : 1,
+    "knowledge" : 2
+  },
+  {
+    "task_id" : "155",
+    "type" : "temperance",
+    "action" : "Use",
+    "justice" : 10,
+    "humanity" : 8,
+    "temperance" : 13,
+    "courage" : 5,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "156",
+    "type" : "temperance",
+    "action" : "Decision",
+    "justice" : 3,
+    "humanity" : 9,
+    "temperance" : 12,
+    "courage" : 1,
+    "knowledge" : 4
+  },
+  {
+    "task_id" : "157",
+    "type" : "temperance",
+    "action" : "Exchange",
+    "justice" : 8,
+    "humanity" : 8,
+    "temperance" : 12,
+    "courage" : 5,
+    "knowledge" : 6
+  },
+  {
+    "task_id" : "158",
+    "type" : "temperance",
+    "action" : "Exchange",
+    "justice" : 10,
+    "humanity" : 0,
+    "temperance" : 11,
+    "courage" : 8,
+    "knowledge" : 7
+  },
+  {
+    "task_id" : "159",
+    "type" : "temperance",
+    "action" : "Listen",
+    "justice" : 2,
+    "humanity" : 1,
+    "temperance" : 11,
+    "courage" : 0,
+    "knowledge" : 7
+  },
+  {
+    "task_id" : "160",
+    "type" : "temperance",
+    "action" : "Attack",
+    "justice" : 3,
+    "humanity" : 5,
+    "temperance" : 10,
+    "courage" : 6,
+    "knowledge" : 5
+  },
+  {
+    "task_id" : "161",
+    "type" : "temperance",
+    "action" : "Craft",
+    "justice" : 3,
+    "humanity" : 9,
+    "temperance" : 10,
+    "courage" : 4,
+    "knowledge" : 8
+  },
+  {
+    "task_id" : "162",
+    "type" : "temperance",
+    "action" : "Decision",
+    "justice" : 2,
+    "humanity" : 1,
+    "temperance" : 9,
+    "courage" : 7,
+    "knowledge" : 3
+  },
+  {
+    "task_id" : "163",
+    "type" : "temperance",
+    "action" : "Listen",
+    "justice" : 8,
+    "humanity" : 2,
+    "temperance" : 9,
+    "courage" : 4,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "164",
+    "type" : "temperance",
+    "action" : "Use",
+    "justice" : 1,
+    "humanity" : 5,
+    "temperance" : 8,
+    "courage" : 0,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "165",
+    "type" : "temperance",
+    "action" : "Take",
+    "justice" : 4,
+    "humanity" : 6,
+    "temperance" : 8,
+    "courage" : 3,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "166",
+    "type" : "temperance",
+    "action" : "Use",
+    "justice" : 4,
+    "humanity" : 3,
+    "temperance" : 7,
+    "courage" : 5,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "167",
+    "type" : "temperance",
+    "action" : "Craft",
+    "justice" : 0,
+    "humanity" : 6,
+    "temperance" : 7,
+    "courage" : 1,
+    "knowledge" : 6
+  },
+  {
+    "task_id" : "168",
+    "type" : "temperance",
+    "action" : "Exchange",
+    "justice" : 4,
+    "humanity" : 1,
+    "temperance" : 6,
+    "courage" : 3,
+    "knowledge" : 5
+  },
+  {
+    "task_id" : "169",
+    "type" : "temperance",
+    "action" : "Craft",
+    "justice" : 0,
+    "humanity" : 5,
+    "temperance" : 6,
+    "courage" : 4,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "170",
+    "type" : "temperance",
+    "action" : "Listen",
+    "justice" : 2,
+    "humanity" : 1,
+    "temperance" : 5,
+    "courage" : 3,
+    "knowledge" : 2
+  },
+  {
+    "task_id" : "171",
+    "type" : "temperance",
+    "action" : "Decision",
+    "justice" : 0,
+    "humanity" : 1,
+    "temperance" : 5,
+    "courage" : 0,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "172",
+    "type" : "temperance",
+    "action" : "Listen",
+    "justice" : 3,
+    "humanity" : 1,
+    "temperance" : 4,
+    "courage" : 2,
+    "knowledge" : 2
+  },
+  {
+    "task_id" : "173",
+    "type" : "temperance",
+    "action" : "Take",
+    "justice" : 2,
+    "humanity" : 2,
+    "temperance" : 4,
+    "courage" : 1,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "174",
+    "type" : "temperance",
+    "action" : "Goto",
+    "justice" : 0,
+    "humanity" : 1,
+    "temperance" : 3,
+    "courage" : 2,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "175",
+    "type" : "temperance",
+    "action" : "Craft",
+    "justice" : 1,
+    "humanity" : 2,
+    "temperance" : 3,
+    "courage" : 2,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "176",
+    "type" : "temperance",
+    "action" : "Use",
+    "justice" : 0,
+    "humanity" : 1,
+    "temperance" : 2,
+    "courage" : 1,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "177",
+    "type" : "temperance",
+    "action" : "Attack",
+    "justice" : 0,
+    "humanity" : 0,
+    "temperance" : 2,
+    "courage" : 0,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "178",
+    "type" : "temperance",
+    "action" : "Attack",
+    "justice" : 0,
+    "humanity" : 0,
+    "temperance" : 1,
+    "courage" : 0,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "179",
+    "type" : "temperance",
+    "action" : "Decision",
+    "justice" : 0,
+    "humanity" : 0,
+    "temperance" : 1,
+    "courage" : 0,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "180",
+    "type" : "courage",
+    "action" : "Goto",
+    "justice" : 18,
+    "humanity" : 22,
+    "temperance" : 3,
+    "courage" : 30,
+    "knowledge" : 14
+  },
+  {
+    "task_id" : "181",
+    "type" : "courage",
+    "action" : "Craft",
+    "justice" : 2,
+    "humanity" : 23,
+    "temperance" : 21,
+    "courage" : 30,
+    "knowledge" : 19
+  },
+  {
+    "task_id" : "182",
+    "type" : "courage",
+    "action" : "Listen",
+    "justice" : 17,
+    "humanity" : 13,
+    "temperance" : 28,
+    "courage" : 29,
+    "knowledge" : 17
+  },
+  {
+    "task_id" : "183",
+    "type" : "courage",
+    "action" : "Listen",
+    "justice" : 21,
+    "humanity" : 8,
+    "temperance" : 27,
+    "courage" : 29,
+    "knowledge" : 9
+  },
+  {
+    "task_id" : "184",
+    "type" : "courage",
+    "action" : "Attack",
+    "justice" : 1,
+    "humanity" : 6,
+    "temperance" : 17,
+    "courage" : 28,
+    "knowledge" : 10
+  },
+  {
+    "task_id" : "185",
+    "type" : "courage",
+    "action" : "Craft",
+    "justice" : 25,
+    "humanity" : 26,
+    "temperance" : 17,
+    "courage" : 28,
+    "knowledge" : 18
+  },
+  {
+    "task_id" : "186",
+    "type" : "courage",
+    "action" : "Exchange",
+    "justice" : 25,
+    "humanity" : 17,
+    "temperance" : 13,
+    "courage" : 27,
+    "knowledge" : 3
+  },
+  {
+    "task_id" : "187",
+    "type" : "courage",
+    "action" : "Decision",
+    "justice" : 16,
+    "humanity" : 6,
+    "temperance" : 4,
+    "courage" : 27,
+    "knowledge" : 12
+  },
+  {
+    "task_id" : "188",
+    "type" : "courage",
+    "action" : "Exchange",
+    "justice" : 4,
+    "humanity" : 11,
+    "temperance" : 17,
+    "courage" : 26,
+    "knowledge" : 11
+  },
+  {
+    "task_id" : "189",
+    "type" : "courage",
+    "action" : "Use",
+    "justice" : 0,
+    "humanity" : 23,
+    "temperance" : 0,
+    "courage" : 26,
+    "knowledge" : 12
+  },
+  {
+    "task_id" : "190",
+    "type" : "courage",
+    "action" : "Goto",
+    "justice" : 4,
+    "humanity" : 10,
+    "temperance" : 10,
+    "courage" : 25,
+    "knowledge" : 9
+  },
+  {
+    "task_id" : "191",
+    "type" : "courage",
+    "action" : "Decision",
+    "justice" : 5,
+    "humanity" : 15,
+    "temperance" : 1,
+    "courage" : 25,
+    "knowledge" : 16
+  },
+  {
+    "task_id" : "192",
+    "type" : "courage",
+    "action" : "Craft",
+    "justice" : 23,
+    "humanity" : 22,
+    "temperance" : 2,
+    "courage" : 24,
+    "knowledge" : 9
+  },
+  {
+    "task_id" : "193",
+    "type" : "courage",
+    "action" : "Read",
+    "justice" : 1,
+    "humanity" : 12,
+    "temperance" : 4,
+    "courage" : 24,
+    "knowledge" : 9
+  },
+  {
+    "task_id" : "194",
+    "type" : "courage",
+    "action" : "Goto",
+    "justice" : 3,
+    "humanity" : 15,
+    "temperance" : 12,
+    "courage" : 23,
+    "knowledge" : 21
+  },
+  {
+    "task_id" : "195",
+    "type" : "courage",
+    "action" : "Exchange",
+    "justice" : 5,
+    "humanity" : 22,
+    "temperance" : 7,
+    "courage" : 23,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "196",
+    "type" : "courage",
+    "action" : "Take",
+    "justice" : 15,
+    "humanity" : 18,
+    "temperance" : 15,
+    "courage" : 22,
+    "knowledge" : 3
+  },
+  {
+    "task_id" : "197",
+    "type" : "courage",
+    "action" : "Craft",
+    "justice" : 17,
+    "humanity" : 17,
+    "temperance" : 4,
+    "courage" : 22,
+    "knowledge" : 13
+  },
+  {
+    "task_id" : "198",
+    "type" : "courage",
+    "action" : "Read",
+    "justice" : 5,
+    "humanity" : 6,
+    "temperance" : 15,
+    "courage" : 21,
+    "knowledge" : 12
+  },
+  {
+    "task_id" : "199",
+    "type" : "courage",
+    "action" : "Read",
+    "justice" : 3,
+    "humanity" : 8,
+    "temperance" : 15,
+    "courage" : 21,
+    "knowledge" : 6
+  },
+  {
+    "task_id" : "200",
+    "type" : "courage",
+    "action" : "Gather",
+    "justice" : 8,
+    "humanity" : 19,
+    "temperance" : 4,
+    "courage" : 20,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "201",
+    "type" : "courage",
+    "action" : "Exchange",
+    "justice" : 6,
+    "humanity" : 16,
+    "temperance" : 16,
+    "courage" : 20,
+    "knowledge" : 6
+  },
+  {
+    "task_id" : "202",
+    "type" : "courage",
+    "action" : "Take",
+    "justice" : 17,
+    "humanity" : 17,
+    "temperance" : 14,
+    "courage" : 19,
+    "knowledge" : 10
+  },
+  {
+    "task_id" : "203",
+    "type" : "courage",
+    "action" : "Goto",
+    "justice" : 17,
+    "humanity" : 15,
+    "temperance" : 15,
+    "courage" : 19,
+    "knowledge" : 3
+  },
+  {
+    "task_id" : "204",
+    "type" : "courage",
+    "action" : "Use",
+    "justice" : 3,
+    "humanity" : 10,
+    "temperance" : 11,
+    "courage" : 18,
+    "knowledge" : 6
+  },
+  {
+    "task_id" : "205",
+    "type" : "courage",
+    "action" : "Use",
+    "justice" : 3,
+    "humanity" : 10,
+    "temperance" : 1,
+    "courage" : 18,
+    "knowledge" : 9
+  },
+  {
+    "task_id" : "206",
+    "type" : "courage",
+    "action" : "Goto",
+    "justice" : 11,
+    "humanity" : 2,
+    "temperance" : 9,
+    "courage" : 17,
+    "knowledge" : 15
+  },
+  {
+    "task_id" : "207",
+    "type" : "courage",
+    "action" : "Fix",
+    "justice" : 4,
+    "humanity" : 9,
+    "temperance" : 5,
+    "courage" : 17,
+    "knowledge" : 8
+  },
+  {
+    "task_id" : "208",
+    "type" : "courage",
+    "action" : "Decision",
+    "justice" : 9,
+    "humanity" : 4,
+    "temperance" : 4,
+    "courage" : 16,
+    "knowledge" : 2
+  },
+  {
+    "task_id" : "209",
+    "type" : "courage",
+    "action" : "Fix",
+    "justice" : 12,
+    "humanity" : 0,
+    "temperance" : 14,
+    "courage" : 16,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "210",
+    "type" : "courage",
+    "action" : "Exchange",
+    "justice" : 8,
+    "humanity" : 6,
+    "temperance" : 2,
+    "courage" : 15,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "211",
+    "type" : "courage",
+    "action" : "Read",
+    "justice" : 14,
+    "humanity" : 8,
+    "temperance" : 2,
+    "courage" : 15,
+    "knowledge" : 4
+  },
+  {
+    "task_id" : "212",
+    "type" : "courage",
+    "action" : "Goto",
+    "justice" : 2,
+    "humanity" : 13,
+    "temperance" : 3,
+    "courage" : 14,
+    "knowledge" : 10
+  },
+  {
+    "task_id" : "213",
+    "type" : "courage",
+    "action" : "Exchange",
+    "justice" : 2,
+    "humanity" : 2,
+    "temperance" : 5,
+    "courage" : 14,
+    "knowledge" : 4
+  },
+  {
+    "task_id" : "214",
+    "type" : "courage",
+    "action" : "Read",
+    "justice" : 6,
+    "humanity" : 0,
+    "temperance" : 9,
+    "courage" : 13,
+    "knowledge" : 3
+  },
+  {
+    "task_id" : "215",
+    "type" : "courage",
+    "action" : "Goto",
+    "justice" : 2,
+    "humanity" : 10,
+    "temperance" : 11,
+    "courage" : 13,
+    "knowledge" : 12
+  },
+  {
+    "task_id" : "216",
+    "type" : "courage",
+    "action" : "Goto",
+    "justice" : 10,
+    "humanity" : 2,
+    "temperance" : 3,
+    "courage" : 12,
+    "knowledge" : 6
+  },
+  {
+    "task_id" : "217",
+    "type" : "courage",
+    "action" : "Take",
+    "justice" : 0,
+    "humanity" : 8,
+    "temperance" : 6,
+    "courage" : 12,
+    "knowledge" : 3
+  },
+  {
+    "task_id" : "218",
+    "type" : "courage",
+    "action" : "Attack",
+    "justice" : 10,
+    "humanity" : 0,
+    "temperance" : 1,
+    "courage" : 11,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "219",
+    "type" : "courage",
+    "action" : "Goto",
+    "justice" : 6,
+    "humanity" : 8,
+    "temperance" : 6,
+    "courage" : 11,
+    "knowledge" : 5
+  },
+  {
+    "task_id" : "220",
+    "type" : "courage",
+    "action" : "Decision",
+    "justice" : 7,
+    "humanity" : 8,
+    "temperance" : 1,
+    "courage" : 10,
+    "knowledge" : 6
+  },
+  {
+    "task_id" : "221",
+    "type" : "courage",
+    "action" : "Fix",
+    "justice" : 9,
+    "humanity" : 5,
+    "temperance" : 8,
+    "courage" : 10,
+    "knowledge" : 9
+  },
+  {
+    "task_id" : "222",
+    "type" : "courage",
+    "action" : "Exchange",
+    "justice" : 5,
+    "humanity" : 4,
+    "temperance" : 0,
+    "courage" : 9,
+    "knowledge" : 7
+  },
+  {
+    "task_id" : "223",
+    "type" : "courage",
+    "action" : "Use",
+    "justice" : 2,
+    "humanity" : 0,
+    "temperance" : 5,
+    "courage" : 9,
+    "knowledge" : 2
+  },
+  {
+    "task_id" : "224",
+    "type" : "courage",
+    "action" : "Fix",
+    "justice" : 2,
+    "humanity" : 2,
+    "temperance" : 2,
+    "courage" : 8,
+    "knowledge" : 4
+  },
+  {
+    "task_id" : "225",
+    "type" : "courage",
+    "action" : "Take",
+    "justice" : 6,
+    "humanity" : 7,
+    "temperance" : 3,
+    "courage" : 8,
+    "knowledge" : 3
+  },
+  {
+    "task_id" : "226",
+    "type" : "courage",
+    "action" : "Attack",
+    "justice" : 6,
+    "humanity" : 5,
+    "temperance" : 4,
+    "courage" : 7,
+    "knowledge" : 4
+  },
+  {
+    "task_id" : "227",
+    "type" : "courage",
+    "action" : "Fix",
+    "justice" : 2,
+    "humanity" : 0,
+    "temperance" : 6,
+    "courage" : 7,
+    "knowledge" : 3
+  },
+  {
+    "task_id" : "228",
+    "type" : "courage",
+    "action" : "Attack",
+    "justice" : 2,
+    "humanity" : 3,
+    "temperance" : 3,
+    "courage" : 6,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "229",
+    "type" : "courage",
+    "action" : "Exchange",
+    "justice" : 0,
+    "humanity" : 5,
+    "temperance" : 5,
+    "courage" : 6,
+    "knowledge" : 2
+  },
+  {
+    "task_id" : "230",
+    "type" : "courage",
+    "action" : "Gather",
+    "justice" : 1,
+    "humanity" : 2,
+    "temperance" : 3,
+    "courage" : 5,
+    "knowledge" : 3
+  },
+  {
+    "task_id" : "231",
+    "type" : "courage",
+    "action" : "Decision",
+    "justice" : 4,
+    "humanity" : 4,
+    "temperance" : 1,
+    "courage" : 5,
+    "knowledge" : 4
+  },
+  {
+    "task_id" : "232",
+    "type" : "courage",
+    "action" : "Listen",
+    "justice" : 1,
+    "humanity" : 1,
+    "temperance" : 0,
+    "courage" : 4,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "233",
+    "type" : "courage",
+    "action" : "Use",
+    "justice" : 0,
+    "humanity" : 2,
+    "temperance" : 0,
+    "courage" : 4,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "234",
+    "type" : "courage",
+    "action" : "Craft",
+    "justice" : 2,
+    "humanity" : 2,
+    "temperance" : 1,
+    "courage" : 3,
+    "knowledge" : 2
+  },
+  {
+    "task_id" : "235",
+    "type" : "courage",
+    "action" : "Goto",
+    "justice" : 0,
+    "humanity" : 0,
+    "temperance" : 1,
+    "courage" : 3,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "236",
+    "type" : "courage",
+    "action" : "Exchange",
+    "justice" : 0,
+    "humanity" : 0,
+    "temperance" : 1,
+    "courage" : 2,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "237",
+    "type" : "courage",
+    "action" : "Read",
+    "justice" : 1,
+    "humanity" : 1,
+    "temperance" : 1,
+    "courage" : 2,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "238",
+    "type" : "courage",
+    "action" : "Goto",
+    "justice" : 0,
+    "humanity" : 0,
+    "temperance" : 0,
+    "courage" : 1,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "239",
+    "type" : "courage",
+    "action" : "Decision",
+    "justice" : 0,
+    "humanity" : 0,
+    "temperance" : 0,
+    "courage" : 1,
+    "knowledge" : 0
+  },
+  {
+    "task_id" : "240",
+    "type" : "knowledge",
+    "action" : "Exchange",
+    "justice" : 0,
+    "humanity" : 15,
+    "temperance" : 3,
+    "courage" : 19,
+    "knowledge" : 30
+  },
+  {
+    "task_id" : "241",
+    "type" : "knowledge",
+    "action" : "Use",
+    "justice" : 2,
+    "humanity" : 28,
+    "temperance" : 28,
+    "courage" : 21,
+    "knowledge" : 30
+  },
+  {
+    "task_id" : "242",
+    "type" : "knowledge",
+    "action" : "Take",
+    "justice" : 25,
+    "humanity" : 3,
+    "temperance" : 11,
+    "courage" : 5,
+    "knowledge" : 29
+  },
+  {
+    "task_id" : "243",
+    "type" : "knowledge",
+    "action" : "Exchange",
+    "justice" : 25,
+    "humanity" : 4,
+    "temperance" : 6,
+    "courage" : 16,
+    "knowledge" : 29
+  },
+  {
+    "task_id" : "244",
+    "type" : "knowledge",
+    "action" : "Read",
+    "justice" : 24,
+    "humanity" : 6,
+    "temperance" : 20,
+    "courage" : 6,
+    "knowledge" : 28
+  },
+  {
+    "task_id" : "245",
+    "type" : "knowledge",
+    "action" : "Read",
+    "justice" : 8,
+    "humanity" : 26,
+    "temperance" : 0,
+    "courage" : 25,
+    "knowledge" : 28
+  },
+  {
+    "task_id" : "246",
+    "type" : "knowledge",
+    "action" : "Fix",
+    "justice" : 5,
+    "humanity" : 4,
+    "temperance" : 15,
+    "courage" : 9,
+    "knowledge" : 27
+  },
+  {
+    "task_id" : "247",
+    "type" : "knowledge",
+    "action" : "Take",
+    "justice" : 0,
+    "humanity" : 12,
+    "temperance" : 8,
+    "courage" : 25,
+    "knowledge" : 27
+  },
+  {
+    "task_id" : "248",
+    "type" : "knowledge",
+    "action" : "Listen",
+    "justice" : 24,
+    "humanity" : 24,
+    "temperance" : 13,
+    "courage" : 12,
+    "knowledge" : 26
+  },
+  {
+    "task_id" : "249",
+    "type" : "knowledge",
+    "action" : "Use",
+    "justice" : 12,
+    "humanity" : 13,
+    "temperance" : 20,
+    "courage" : 21,
+    "knowledge" : 26
+  },
+  {
+    "task_id" : "250",
+    "type" : "knowledge",
+    "action" : "Use",
+    "justice" : 23,
+    "humanity" : 9,
+    "temperance" : 9,
+    "courage" : 4,
+    "knowledge" : 25
+  },
+  {
+    "task_id" : "251",
+    "type" : "knowledge",
+    "action" : "Listen",
+    "justice" : 19,
+    "humanity" : 8,
+    "temperance" : 20,
+    "courage" : 6,
+    "knowledge" : 25
+  },
+  {
+    "task_id" : "252",
+    "type" : "knowledge",
+    "action" : "Attack",
+    "justice" : 4,
+    "humanity" : 15,
+    "temperance" : 4,
+    "courage" : 19,
+    "knowledge" : 24
+  },
+  {
+    "task_id" : "253",
+    "type" : "knowledge",
+    "action" : "Craft",
+    "justice" : 4,
+    "humanity" : 14,
+    "temperance" : 15,
+    "courage" : 5,
+    "knowledge" : 24
+  },
+  {
+    "task_id" : "254",
+    "type" : "knowledge",
+    "action" : "Exchange",
+    "justice" : 2,
+    "humanity" : 6,
+    "temperance" : 7,
+    "courage" : 17,
+    "knowledge" : 23
+  },
+  {
+    "task_id" : "255",
+    "type" : "knowledge",
+    "action" : "Craft",
+    "justice" : 4,
+    "humanity" : 19,
+    "temperance" : 7,
+    "courage" : 10,
+    "knowledge" : 23
+  },
+  {
+    "task_id" : "256",
+    "type" : "knowledge",
+    "action" : "Decision",
+    "justice" : 3,
+    "humanity" : 18,
+    "temperance" : 8,
+    "courage" : 20,
+    "knowledge" : 22
+  },
+  {
+    "task_id" : "257",
+    "type" : "knowledge",
+    "action" : "Attack",
+    "justice" : 12,
+    "humanity" : 18,
+    "temperance" : 9,
+    "courage" : 19,
+    "knowledge" : 22
+  },
+  {
+    "task_id" : "258",
+    "type" : "knowledge",
+    "action" : "Use",
+    "justice" : 16,
+    "humanity" : 11,
+    "temperance" : 9,
+    "courage" : 9,
+    "knowledge" : 21
+  },
+  {
+    "task_id" : "259",
+    "type" : "knowledge",
+    "action" : "Decision",
+    "justice" : 3,
+    "humanity" : 13,
+    "temperance" : 7,
+    "courage" : 20,
+    "knowledge" : 21
+  },
+  {
+    "task_id" : "260",
+    "type" : "knowledge",
+    "action" : "Exchange",
+    "justice" : 11,
+    "humanity" : 17,
+    "temperance" : 12,
+    "courage" : 3,
+    "knowledge" : 20
+  },
+  {
+    "task_id" : "261",
+    "type" : "knowledge",
+    "action" : "Use",
+    "justice" : 8,
+    "humanity" : 5,
+    "temperance" : 8,
+    "courage" : 5,
+    "knowledge" : 20
+  },
+  {
+    "task_id" : "262",
+    "type" : "knowledge",
+    "action" : "Goto",
+    "justice" : 12,
+    "humanity" : 14,
+    "temperance" : 14,
+    "courage" : 5,
+    "knowledge" : 19
+  },
+  {
+    "task_id" : "263",
+    "type" : "knowledge",
+    "action" : "Listen",
+    "justice" : 10,
+    "humanity" : 2,
+    "temperance" : 14,
+    "courage" : 10,
+    "knowledge" : 19
+  },
+  {
+    "task_id" : "264",
+    "type" : "knowledge",
+    "action" : "Use",
+    "justice" : 14,
+    "humanity" : 11,
+    "temperance" : 15,
+    "courage" : 15,
+    "knowledge" : 18
+  },
+  {
+    "task_id" : "265",
+    "type" : "knowledge",
+    "action" : "Use",
+    "justice" : 1,
+    "humanity" : 11,
+    "temperance" : 4,
+    "courage" : 2,
+    "knowledge" : 18
+  },
+  {
+    "task_id" : "266",
+    "type" : "knowledge",
+    "action" : "Listen",
+    "justice" : 16,
+    "humanity" : 13,
+    "temperance" : 1,
+    "courage" : 9,
+    "knowledge" : 17
+  },
+  {
+    "task_id" : "267",
+    "type" : "knowledge",
+    "action" : "Listen",
+    "justice" : 15,
+    "humanity" : 5,
+    "temperance" : 16,
+    "courage" : 4,
+    "knowledge" : 17
+  },
+  {
+    "task_id" : "268",
+    "type" : "knowledge",
+    "action" : "Decision",
+    "justice" : 7,
+    "humanity" : 13,
+    "temperance" : 7,
+    "courage" : 3,
+    "knowledge" : 16
+  },
+  {
+    "task_id" : "269",
+    "type" : "knowledge",
+    "action" : "Read",
+    "justice" : 9,
+    "humanity" : 7,
+    "temperance" : 10,
+    "courage" : 14,
+    "knowledge" : 16
+  },
+  {
+    "task_id" : "270",
+    "type" : "knowledge",
+    "action" : "Take",
+    "justice" : 3,
+    "humanity" : 6,
+    "temperance" : 7,
+    "courage" : 5,
+    "knowledge" : 15
+  },
+  {
+    "task_id" : "271",
+    "type" : "knowledge",
+    "action" : "Exchange",
+    "justice" : 11,
+    "humanity" : 8,
+    "temperance" : 13,
+    "courage" : 5,
+    "knowledge" : 15
+  },
+  {
+    "task_id" : "272",
+    "type" : "knowledge",
+    "action" : "Goto",
+    "justice" : 6,
+    "humanity" : 12,
+    "temperance" : 0,
+    "courage" : 6,
+    "knowledge" : 14
+  },
+  {
+    "task_id" : "273",
+    "type" : "knowledge",
+    "action" : "Take",
+    "justice" : 10,
+    "humanity" : 3,
+    "temperance" : 12,
+    "courage" : 3,
+    "knowledge" : 14
+  },
+  {
+    "task_id" : "274",
+    "type" : "knowledge",
+    "action" : "Listen",
+    "justice" : 9,
+    "humanity" : 5,
+    "temperance" : 9,
+    "courage" : 1,
+    "knowledge" : 13
+  },
+  {
+    "task_id" : "275",
+    "type" : "knowledge",
+    "action" : "Decision",
+    "justice" : 1,
+    "humanity" : 8,
+    "temperance" : 1,
+    "courage" : 9,
+    "knowledge" : 13
+  },
+  {
+    "task_id" : "276",
+    "type" : "knowledge",
+    "action" : "Attack",
+    "justice" : 8,
+    "humanity" : 11,
+    "temperance" : 10,
+    "courage" : 1,
+    "knowledge" : 12
+  },
+  {
+    "task_id" : "277",
+    "type" : "knowledge",
+    "action" : "Craft",
+    "justice" : 5,
+    "humanity" : 11,
+    "temperance" : 2,
+    "courage" : 6,
+    "knowledge" : 12
+  },
+  {
+    "task_id" : "278",
+    "type" : "knowledge",
+    "action" : "Exchange",
+    "justice" : 0,
+    "humanity" : 9,
+    "temperance" : 0,
+    "courage" : 7,
+    "knowledge" : 11
+  },
+  {
+    "task_id" : "279",
+    "type" : "knowledge",
+    "action" : "Exchange",
+    "justice" : 3,
+    "humanity" : 3,
+    "temperance" : 1,
+    "courage" : 8,
+    "knowledge" : 11
+  },
+  {
+    "task_id" : "280",
+    "type" : "knowledge",
+    "action" : "Goto",
+    "justice" : 9,
+    "humanity" : 7,
+    "temperance" : 2,
+    "courage" : 2,
+    "knowledge" : 10
+  },
+  {
+    "task_id" : "281",
+    "type" : "knowledge",
+    "action" : "Decision",
+    "justice" : 2,
+    "humanity" : 9,
+    "temperance" : 4,
+    "courage" : 4,
+    "knowledge" : 10
+  },
+  {
+    "task_id" : "282",
+    "type" : "knowledge",
+    "action" : "Fix",
+    "justice" : 0,
+    "humanity" : 1,
+    "temperance" : 8,
+    "courage" : 4,
+    "knowledge" : 9
+  },
+  {
+    "task_id" : "283",
+    "type" : "knowledge",
+    "action" : "Gather",
+    "justice" : 6,
+    "humanity" : 5,
+    "temperance" : 5,
+    "courage" : 1,
+    "knowledge" : 9
+  },
+  {
+    "task_id" : "284",
+    "type" : "knowledge",
+    "action" : "Attack",
+    "justice" : 1,
+    "humanity" : 5,
+    "temperance" : 4,
+    "courage" : 4,
+    "knowledge" : 8
+  },
+  {
+    "task_id" : "285",
+    "type" : "knowledge",
+    "action" : "Decision",
+    "justice" : 3,
+    "humanity" : 3,
+    "temperance" : 2,
+    "courage" : 1,
+    "knowledge" : 8
+  },
+  {
+    "task_id" : "286",
+    "type" : "knowledge",
+    "action" : "Attack",
+    "justice" : 5,
+    "humanity" : 2,
+    "temperance" : 1,
+    "courage" : 0,
+    "knowledge" : 7
+  },
+  {
+    "task_id" : "287",
+    "type" : "knowledge",
+    "action" : "Decision",
+    "justice" : 0,
+    "humanity" : 3,
+    "temperance" : 2,
+    "courage" : 1,
+    "knowledge" : 7
+  },
+  {
+    "task_id" : "288",
+    "type" : "knowledge",
+    "action" : "Read",
+    "justice" : 5,
+    "humanity" : 5,
+    "temperance" : 1,
+    "courage" : 5,
+    "knowledge" : 6
+  },
+  {
+    "task_id" : "289",
+    "type" : "knowledge",
+    "action" : "Use",
+    "justice" : 4,
+    "humanity" : 1,
+    "temperance" : 4,
+    "courage" : 3,
+    "knowledge" : 6
+  },
+  {
+    "task_id" : "290",
+    "type" : "knowledge",
+    "action" : "Craft",
+    "justice" : 4,
+    "humanity" : 0,
+    "temperance" : 2,
+    "courage" : 0,
+    "knowledge" : 5
+  },
+  {
+    "task_id" : "291",
+    "type" : "knowledge",
+    "action" : "Use",
+    "justice" : 0,
+    "humanity" : 0,
+    "temperance" : 1,
+    "courage" : 2,
+    "knowledge" : 5
+  },
+  {
+    "task_id" : "292",
+    "type" : "knowledge",
+    "action" : "Goto",
+    "justice" : 1,
+    "humanity" : 2,
+    "temperance" : 3,
+    "courage" : 3,
+    "knowledge" : 4
+  },
+  {
+    "task_id" : "293",
+    "type" : "knowledge",
+    "action" : "Attack",
+    "justice" : 1,
+    "humanity" : 1,
+    "temperance" : 0,
+    "courage" : 1,
+    "knowledge" : 4
+  },
+  {
+    "task_id" : "294",
+    "type" : "knowledge",
+    "action" : "Goto",
+    "justice" : 1,
+    "humanity" : 2,
+    "temperance" : 0,
+    "courage" : 0,
+    "knowledge" : 3
+  },
+  {
+    "task_id" : "295",
+    "type" : "knowledge",
+    "action" : "Use",
+    "justice" : 0,
+    "humanity" : 2,
+    "temperance" : 0,
+    "courage" : 2,
+    "knowledge" : 3
+  },
+  {
+    "task_id" : "296",
+    "type" : "knowledge",
+    "action" : "Goto",
+    "justice" : 0,
+    "humanity" : 0,
+    "temperance" : 0,
+    "courage" : 1,
+    "knowledge" : 2
+  },
+  {
+    "task_id" : "297",
+    "type" : "knowledge",
+    "action" : "Take",
+    "justice" : 1,
+    "humanity" : 1,
+    "temperance" : 0,
+    "courage" : 1,
+    "knowledge" : 2
+  },
+  {
+    "task_id" : "298",
+    "type" : "knowledge",
+    "action" : "Listen",
+    "justice" : 0,
+    "humanity" : 0,
+    "temperance" : 0,
+    "courage" : 0,
+    "knowledge" : 1
+  },
+  {
+    "task_id" : "299",
+    "type" : "knowledge",
+    "action" : "Read",
+    "justice" : 0,
+    "humanity" : 0,
+    "temperance" : 0,
+    "courage" : 0,
+    "knowledge" : 1
+  }
+]
