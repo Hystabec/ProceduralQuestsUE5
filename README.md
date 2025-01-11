@@ -1,5 +1,7 @@
 # ProceduralQuestsUE5
 
+Required Unreal Engine 5.4.4
+
 If manuel compilation of "ProceduralQuests" is required:
 Right Click "ProceduralQuests.uproject" and select "Generate Visual Studio project files" (under show more options - if not show by default).
 Once generated open "ProceduralQuests.sln" and build the solution.
