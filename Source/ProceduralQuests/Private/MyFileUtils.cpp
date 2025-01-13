@@ -17,3 +17,28 @@ FString UMyFileUtils::LoadFileToString(FString fileName)
 
 	return result;
 }
+
+TArray<FString> UMyFileUtils::BreakStringInArrayOnNewLine(FString stringToBreak)
+{
+	TArray<FString> returnArray = {};
+	FString current;
+
+	for (int i = 0; i < stringToBreak.Len(); i++)
+	{
+		if (stringToBreak[i] == '\n')
+		{
+			returnArray.Add(current);
+			current.Empty();
+		}
+		else if(stringToBreak[i] == '\r')
+		{
+			continue;
+		}
+		else
+		{
+			current.AppendChar(stringToBreak[i]);
+		}
+	}
+
+	return returnArray;
+}
