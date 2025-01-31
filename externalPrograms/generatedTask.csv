@@ -1,0 +1,47 @@
+Attack A,Quest Giver,Target
+Attack B,Quest Giver,Target
+Attack C,Quest Giver,Target
+Attack D,Quest Giver,Target
+Capture A,Quest Giver,Target
+Capture B,Quest Giver,Target
+Craft A,Quest Giver,Craft Station
+Craft B,Quest Giver,Craft Station
+Damage A,Quest Giver,Target
+Damage B,Quest Giver,Target
+Decision A,Quest Giver,Decision One,Decision Two
+Decision B,Quest Giver,Decision One,Decision Two
+Defend A,Quest Giver,Target To Defend
+Defend B,Quest Giver,Target To Defend
+Escort A,Quest Giver,Target To Escort,Location To Go To
+Escort B,Quest Giver,Target To Escort,Location To Go To
+Exchange A,Quest Giver,Object To Exchange,Person To Exchange With
+Exchange B,Quest Giver,Object To Exchange,Person To Exchange With
+Explore A,Quest Giver,Location To Go To
+Explore B,Quest Giver,Location To Go To
+Gather A,Quest Giver,Object To Collect
+Gather B,Quest Giver,Object To Collect
+Give A,Quest Giver,Object To Give,Person To Give To
+Give B,Quest Giver,Object To Give,Person To Give To
+Goto A,Quest Giver
+Goto B,Quest Giver
+Kill A,Quest Giver,Target
+Kill B,Quest Giver,Target
+Listen A,Quest Giver,Target To Listen To
+Listen B,Quest Giver,Target To Listen To
+Read A,Quest Giver,Item To Read
+Read B,Quest Giver,Item To Read
+Repair A,Quest Giver,Item To Repair
+Repair B,Quest Giver,Item To Repair
+Report To A,Quest Giver,Person To Report To
+Report To B,Quest Giver,Person To Report To
+Rescue A,Quest Giver,Person To Rescue,Safe Location
+Rescue B,Quest Giver,Person To Rescue,Safe Location
+Solve A,Quest Giver,Puzzle To Solve
+Solve B,Quest Giver,Puzzle To Solve
+Spy A,Quest Giver,Target To Listen To
+Spy B,Quest Giver,Target To Listen To
+Stealth A,Quest Giver,Location To Stealth In,Guard To Avoid
+Stealth B,Quest Giver,Location To Stealth In,Guard To Avoid
+Take A,Quest Giver,Object To Collect
+Take B,Quest Giver,Object To Collect
+Use A,Quest Giver,Object To Use
